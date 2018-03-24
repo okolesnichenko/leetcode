@@ -46,7 +46,7 @@ namespace leetcodeeasy
             return count;
         }
 
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             Console.WriteLine(NumJewelsInStones("adE", "sdasdafaA"));
             Console.WriteLine(ReverseString("hello"));
